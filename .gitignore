@@ -1,0 +1,10 @@
+data/*
+log/*
+plot/*
+
+*.pyc
+*.swp
+*.p
+*.txt
+*.pdf
+*.png
